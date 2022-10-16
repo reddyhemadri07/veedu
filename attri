@@ -3,6 +3,6 @@
 hemadri=int(input("eneter the number the number for hemadri:")
 sudhakar=int(input("eneter the number the number for sudhakar:")
 print( hemadri + sudhakar )
-
-
+print ( hemadri - sudhakar )
+print ( hemadri * sudhakar )
 
