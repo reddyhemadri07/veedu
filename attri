@@ -1,0 +1,8 @@
+#Hello
+#addition of a two numbers in python
+hemadri=int(input("eneter the number the number for hemadri:")
+sudhakar=int(input("eneter the number the number for sudhakar:")
+print( hemadri + sudhakar )
+
+
+
